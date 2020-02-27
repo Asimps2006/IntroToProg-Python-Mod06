@@ -1,0 +1,9 @@
+Assignment05,High
+Assignment06,High
+Do Dishes,Super High
+Laundry,High
+Brush Teeth,Low
+Empty Trash,Medium
+Clean Bathroom,Medium
+File Taxes,Medium
+Assignment07,High
