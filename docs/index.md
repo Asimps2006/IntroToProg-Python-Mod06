@@ -6,7 +6,9 @@ Here are some simple links for this assignemnt:
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/jiXmXhwgHp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/jiXmXhwgHp8">
+</iframe>
 
 
 Thanks!
