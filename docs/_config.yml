@@ -6,12 +6,9 @@ Here are some simple links for this assignemnt:
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-<div class="videoTag">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jZvC7NWkeA0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" class="ng-scope"></iframe>
-</div>
-.videoTag{
--webkit-overflow-scrolling: touch;
-}
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=jiXmXhwgHp8&feature=youtu.be" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 Thanks!
 
